@@ -1,11 +1,15 @@
 Behavior Monitoring System
+
 Overview
+
 The Behavior Monitoring System is an AI-powered application designed to analyze student behavior in real-time during lectures. It utilizes facial expression analysis to evaluate students' engagement and generates reports to showcase their class involvement.
 
 Motivation
+
 The aim of this project is to provide educators with a tool to assess student engagement and participation during lectures. By leveraging artificial intelligence and computer vision techniques, the system can provide valuable insights into students' behaviors, allowing educators to adapt their teaching methods accordingly.
 
 Features
+
 Real-time Facial Expression Analysis: The system analyzes students' facial expressions in real-time to assess their level of engagement.
 User-Friendly Interface: The application features a user-friendly interface for easy interaction and navigation.
 Customizable Settings: Users can customize settings to suit different classroom environments and teaching styles.
